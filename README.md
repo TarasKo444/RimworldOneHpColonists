@@ -2,4 +2,4 @@
 <img src="About/ModIcon.png" alt="heart" width="300"/>
 
 <h1>Description</h1>
-<p>Colonists now die every time they receive damage except when they deflect</p>
+<p>Colonists now die whenever they take damage, except when deflected</p>
